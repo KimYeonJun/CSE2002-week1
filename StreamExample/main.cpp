@@ -36,4 +36,5 @@ void main()
 	std::ofstream ofile("cppstyle.txt");
 	ofile << my_vector << std::endl;
 
+
 }
